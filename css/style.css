@@ -1,0 +1,36 @@
+ /* html, body {
+    height: 100%;
+    width: 100%;
+  } 
+  /*for tip calculator*/
+  /* * {
+    font-family: 'M Plus Rounded 1c', Arial, Helvetica, sans-serif;
+    color: #fff;
+  }
+  body{
+    background: #8990ec;
+  } */
+  /* .wrapper{
+    height: 525ox;
+    width: 360px;
+    color: white;
+    background: #272639;
+    padding: 1.2rem;
+    border-radius: 1rem;
+    margin: 100px auto;
+  }  */ */
+
+  #bottom{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .totalContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+
+  .total{
+    font-size: 2rem;
+  }
